@@ -1,0 +1,12 @@
+if TARGET_ORANGEPI_CM4_RK3566
+
+config SYS_BOARD
+	default "orangepi-cm4-rk3566"
+
+config SYS_VENDOR
+	default "xunlong"
+
+config SYS_CONFIG_NAME
+	default "evb_rk3568"
+
+endif

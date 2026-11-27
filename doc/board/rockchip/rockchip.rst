@@ -125,6 +125,7 @@ List of mainline supported Rockchip boards:
      - Radxa ROCK 3C (rock-3c-rk3566)
      - Radxa ZERO 3W/3E (radxa-zero-3-rk3566)
      - Xunlong Orange Pi 3B (orangepi-3b-rk3566)
+     - Xunlong Orange Pi CM4 (orangepi-cm4-rk3566)
 
 * rk3568
      - 9Tripod X3568 v4 (9tripod-x3568-v4-rk3568)

@@ -1380,6 +1380,13 @@ properties:
           - const: xunlong,orangepi-3b
           - const: rockchip,rk3566
 
+      - description: Xunlong Orange Pi CM4 BDCode Edition
+        items:
+          - enum:
+              - xunlong,orangepi-cm4-v1.4
+          - const: xunlong,orangepi-cm4
+          - const: rockchip,rk3566          
+
       - description: Xunlong Orange Pi 5 Max/Plus/Ultra
         items:
           - enum:

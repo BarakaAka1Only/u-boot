@@ -1,0 +1,6 @@
+ORANGEPI-CM4-RK3566
+M:	Baraka <baraka@bdcode.stream>
+S:	Maintained
+F:	board/xunlong/orangepi-cm4-rk3566
+F:	configs/orangepi-cm4-rk3566_defconfig
+F:	arch/arm/dts/rk3566-orangepi-cm4*
