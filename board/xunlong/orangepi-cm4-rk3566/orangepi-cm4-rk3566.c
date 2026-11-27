@@ -10,7 +10,8 @@ struct board_model {
 };
 
 static const struct board_model board_models[] = {
-	{ 0, "rockchip/rk3566-orangepi-cm4-v1.4.dtb", "rk3566-orangepi-cm4-v1.4.dtb" }
+	{ 0, "rockchip/rk3566-orangepi-cm4-v1.4.dtb", "rk3566-orangepi-cm4-v1.4.dtb" },
+	{ 1, "rockchip/rk3566-orangepi-cm4-v1.4.1.dtb", "rk3566-orangepi-cm4-v1.4.1.dtb" },
 };
 
 static int get_board_value(void)

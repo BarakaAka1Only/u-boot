@@ -2,4 +2,4 @@
 
 /dts-v1/;
 
-#include <arm64/rockchip/rk3566-orangepi-cm4-v1.4.dts>
+#include <arm64/rockchip/rk3566-orangepi-cm4.dts>
